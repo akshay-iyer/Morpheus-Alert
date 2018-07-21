@@ -85,7 +85,7 @@ void main()
 						OCR1A-=10;
 						OCR2-=10;
 						
-						// Warning lights are turned on as the car is brought to a graduyal halt
+						// Warning lights are turned on as the car is brought to a gradual halt
 						PORTB|=(1<<PB6);                
 						}
 					
